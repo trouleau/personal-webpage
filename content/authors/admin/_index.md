@@ -25,8 +25,13 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-
+activities:
+  - 🚀 Joined <a href="https://unit8.com" itemprop="name">Unit8</a> as Data Scientist (2021)
+  - 🎓 Defended my PhD thesis (2021)
+  - 🦠 Winner of the <a href="https://www.kit.nl/project/tuberculosis-hackathon/" itemprop="name">KIT Tuberculosis Hackathon</a> as part of the <a href="http://www.idmod.org/" itemprop="name">IDM</a> team (2019)
+  - 👨‍🏫 Received Teaching Assistant Award, EPFL (2019)
+  - ✈️ Received ACM SIGKDD Student Travel Award (2016)
+  - 📐 Awarded EDIC Fellowship, EPFL (2015)
 # Education to show in About widget
 education:
 
@@ -55,6 +60,8 @@ email: ''
 highlight_name: true
 ---
 
-I'm an Engagement Lead & Data Scientist at [Unit8](https://unit8.com) where I use data and machine learning to solve hands-on business challenges. I work on the whole journey from writing data engineering pipelines to designing and deploying machine learning models and systems.
+I'm an Engagement Lead & Data Scientist at [Unit8](https://unit8.com) where I use data and machine learning to solve hands-on business challenges. I work on the whole journey from design, to implementation and deployment of AI-based systems for customers in the chemical industry spanning different business units: from innovation, to compliance or manufacturing.
 
-Before that, I was a Ph.D. student in machine learning at [EPFL](http://www.epfl.ch/) and a researcher in Seattle and in the Silicon Valley.
+In 2021, I earned a PhD from [EPFL](http://www.epfl.ch/) in Lausanne, Switzerland. My research was focused on the statistical and algorithmic aspects of modeling, control, and inference of networks of times series ; with applications in epidemiology, neuroscience, information diffusion and recommendation systems. 
+
+During my PhD, I was an intern at the [Institute for Disease Modeling](https://www.idmod.org) in Seattle, quantifying the burden of Tuberculosis in Pakistan. I also had the opportunity to intern at Technicolor in the Silicon Valley.
